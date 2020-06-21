@@ -4,8 +4,26 @@ title: Courses Taken at IISER Tirupati
 ---
 
 <!--# Courses taken at iiser tirupati-->
+BSMS is a five year program, during the first two years we study all four subjects and
+then we specialize in a particular subject.
 
 This is an exhaustive list of courses that I've taken till now at IISER tirupati.
+
+<div id="toc_container">
+<p class="toc_title">Contents</p>
+<ul class="toc_list">
+  <li><a href="#maths"> Maths</a>
+  <!--<ul>
+    <li><a href="#First_Sub_Point_1">1.1 First Sub Point 1</a></li>
+    <li><a href="#First_Sub_Point_2">1.2 First Sub Point 2</a></li>
+  </ul>-->
+</li>
+<li><a href="#physics"> Physics</a></li>
+<li><a href="#chemistry"> Chemistry </a></li>
+<li><a href="#biology"> Biology </a></li>
+<li><a href="#humanities-and-social-sciences"> Humanities and Social Science</a></li>
+</ul>
+</div>
 
 ## MATHS
 
