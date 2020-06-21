@@ -6,7 +6,7 @@ permalink: /about/
 Glad you wanna know about me.
 
 I'm Abhinav Jha, a third year enrolled in the BSMS program at 
-[IISER Tirupati](https://en.wikipedia.org/wiki/Indian_Institute_of_Science_Education_and_Research).
+[IISER Tirupati](https://en.wikipedia.org/wiki/Indian_Institute_of_Science_Education_and_Research,_Tirupati).
 
 I'm interested in stuff like Maths, Physics, Linux and a bit of programming languages.
 My hobbies would be well watching anime, reading random stuff and looking at memes.
