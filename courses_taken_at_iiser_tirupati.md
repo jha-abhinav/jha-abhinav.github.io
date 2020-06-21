@@ -473,7 +473,6 @@ This is an exhaustive list of courses that I've taken till now at IISER tirupati
         - Human genome sequencing, Gene Editing Technologies,
         Space travel, Search for extraterrestrial life, Machine
         Intelligence, challenges and opportunities for the future?
-
     </details> 
 
 - **Critical Reading, Writing and Communication** (Sem II)
