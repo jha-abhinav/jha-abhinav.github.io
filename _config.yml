@@ -14,4 +14,4 @@ mastodon:
     instance: freeradical.zone
 
 show_excerpts: false # set to false to remove excerpts on the homepage
-markdown: CommonMarkGhPages
+
