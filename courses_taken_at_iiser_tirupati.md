@@ -361,39 +361,48 @@ This is an exhaustive list of courses that I've taken till now at IISER tirupati
 
    - Organic Chemistry:
 
-   1. Thin-layer chromatography (TLC).
-   2. Synthesis of Paracetamol / N-(4-
-   hydroxyphenyl)Ethanamide from 4-aminophenol.
-   3. Synthesis of Cyclohexanone oxime.
-   4. Type Determination of Given Organic Compound
-   (Acidic/Basic/Phenolic/Neutral)
-   and Recoding its IR Spectra.
-
+       1. Thin-layer chromatography (TLC).
+    
+       2. Synthesis of Paracetamol / N-(4-
+       hydroxyphenyl)Ethanamide from 4-aminophenol.
+    
+       3. Synthesis of Cyclohexanone oxime.
+    
+       4. Type Determination of Given Organic Compound
+       (Acidic/Basic/Phenolic/Neutral)
+       and Recoding its IR Spectra.
+    
    - Inorganic Chemistry:
 
-   5. Determine weight percent of active ingredient in a
-   commercial calcium carbonate tablet.
-   6. Preparation of Hexaamminenickel(II)chloride
-   [Ni(NH3)6]Cl2
-   7. Synthesis of Copper Pigments, Malachite and Verdigris:
-   Making Paint
-   8. Iodometric Determination of Free Chlorine in given Bleach
-   Solution.
+       5. Determine weight percent of active ingredient in a
+       commercial calcium carbonate tablet.
+    
+       6. Preparation of Hexaamminenickel(II)chloride
+       [Ni(NH3)6]Cl2
+    
+       7. Synthesis of Copper Pigments, Malachite and Verdigris:
+       Making Paint
+    
+       8. Iodometric Determination of Free Chlorine in given Bleach
+       Solution.
 
    - Physical Chemistry:
 
-   9. Volumetry:
-   Determination of strength of base by volumetric titration
-   10. pHmetry:
-   Determination of concentration phosphoric acid in soft drinks
-   by pH-metric titration
-   11. Conductometry:
-   Estimation of amount of acids present in a given mixture
-   conductometrically
-   12. UV-Vis Spectroscopy:
-   Determination of Cetirizine concentration from Inclusion
-   Complexes of β-Cyclodextrin: A Spectrophotometric Method
-
+       9. Volumetry:
+       Determination of strength of base by volumetric titration
+    
+       10. pHmetry:
+       Determination of concentration phosphoric acid in soft drinks
+       by pH-metric titration
+    
+       11. Conductometry:
+       Estimation of amount of acids present in a given mixture
+       conductometrically
+    
+       12. UV-Vis Spectroscopy:
+       Determination of Cetirizine concentration from Inclusion
+       Complexes of β-Cyclodextrin: A Spectrophotometric Method
+    
 
 # **Biology**
 
