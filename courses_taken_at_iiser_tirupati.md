@@ -5,7 +5,7 @@ title: Courses Taken at IISER Tirupati
 
 <!--# Courses taken at iiser tirupati-->
 BSMS is a five year program, during the first two years we study all four subjects and
-then we specialize in a particular subject.
+then we may specialize in a particular subject.
 
 This is an exhaustive list of courses that I've taken till now at IISER tirupati.
 
