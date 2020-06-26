@@ -72,6 +72,26 @@ This is an exhaustive list of courses that I've taken till now at IISER tirupati
    intervals, basics of hypothesis testing with some examples of test
    like the chi-squared test.
 
+### **Multivariable Calculus** (Sem III)
+
+   - **Vectors**: Vectors, coordinate systems (Cartesian and polar), dot
+   product, cross product. ([1], Ch. 1)
+
+   - **Partial derivatives**: Function of several variables, Limits and
+   continuity, partial derivatives, tangent planes, normal vectors, chain
+   rule, directional derivatives and gradient vector, maxi- mum and
+   minimum values, Lagrange multipliers, examples of partial
+   differential equations. ([1], Ch. 2 and Ch. 3)
+
+   - **Multiple integrals**: Double and triple integrals, application to surface
+   area and volumes, integration in spherical coordinates, change of
+   variables. ([1], Ch. 5)
+
+   - **Vector calculus**: Vector fields, curves, arc length, line integrals,
+   fundamental theorem of line integrals, Greens theorem, curl,
+   divergence, level sets, parametric surfaces, surface integrals, Stokes
+   theorem, Gauss Divergence theorem. ([1], Ch. 6 and Ch. 7)
+
 ### **Linear Algebra and Applications** (Sem II)
 
 
@@ -126,6 +146,8 @@ This is an exhaustive list of courses that I've taken till now at IISER tirupati
 
    - Examples of ordinary differential equations.
 
+
+
 ## **Physics**
 
 ### **Foundations of Physics IV: Quantum Physics** (Sem IV)
@@ -169,6 +191,31 @@ This is an exhaustive list of courses that I've taken till now at IISER tirupati
    Atomic clocks, Quantum tunnelling and mutations in
    DNA, Quantum coherence and photosynthesis.
    
+### **Foundations of Physics III: Electricity & Magnetism** (Sem III)
+
+   - Electric charge and field, point charge, dipole
+
+   - Gauss' law, planar, cylindrical, and spherical symmetry
+
+   - Electric Potential, equipotential surfaces, conductors
+
+   - Electric fields in matter, capacitors and dielectrics
+
+   - Direct currents in materials, resistance, Ohm’s law
+
+   - DC circuits
+
+   - Magnetic force and field, force on point charge
+
+   - Magnetic force and torque on currents
+
+   - Ampere’s law, Faraday's law, solenoids
+
+   - Inductance, alternating currents and circuits, induced electric field
+
+   - Displacement current, induced magnetic field, Maxwell's equations
+
+   - Working principles of Electric Motors and generators;Transformers; Electric bells and buzzers; Loudspeakers and headphones; Actuators such as valves; Magnetic recording and data storage equipment.
 
 ### **Waves and Oscillations** (Sem II)
 
@@ -216,6 +263,30 @@ This is an exhaustive list of courses that I've taken till now at IISER tirupati
 
    10. Measurement of the earth’s magnetic field
    
+   
+### **Physics Lab II: Electricity, Magnetism and Optics** (Sem III)
+
+   1. Verification of Biot-Savart law
+
+   2. RC, RL and LC circuit
+
+   3. LCR resonant circuit
+
+   4. I-V characteristics of normal and Zener diode
+
+   5. Half-wave and Full-wave rectifier without and with filter
+
+   6. Spectrometer - Refractive Index of Prism
+
+   7. Diffraction of light by single/double slit
+
+   8. Michelson’s interferometer
+
+   9. Newton’s rings
+
+   10. Cornu’s apparatus [Young’s modulus]
+
+
 ### **Phys. Lab I: Mechanics and Properties of Matter** (Sem II)
 
 
@@ -286,7 +357,26 @@ This is an exhaustive list of courses that I've taken till now at IISER tirupati
    - **Rearrangement reactions**: Various types, electrophilic
    and nucleophilic rearrangements, migratory aptitudes
    and free radical rearrangements.
-   
+
+### **Inorganic Chemistry** (Sem III)
+
+   1. Atomic Structure, electronic configuration, periodicity, sizes of
+   atoms and ions, ionization energy, electron affinity, relativistic
+   effects, concepts of acids and bases, Brønsted and Lewis theory,
+   hard and soft acids and bases (tentatively in 9-10 lectures).
+
+   2. Oxidation and reduction, electrode potentials, Nernst equation,
+   representation of electrochemical data, importance of water
+   splitting, batteries and fuel cells, solid state structures and
+   properties (tentatively in 8-9 lectures).
+
+   3. Chemical bonding, Lewis theory, valance bond and molecular orbital
+   theories, coordination complexes, theories of bonding in transition metal
+   compounds, some introduction to main group compounds (tentatively in
+   10-12 lectures).
+
+
+
 ### **Physical Chemistry** (Sem II)
 
 
@@ -354,6 +444,25 @@ This is an exhaustive list of courses that I've taken till now at IISER tirupati
        10. Estimation of Total Hardness of water through EDTA
        titration.
 
+### **Chemistry Lab II** (Sem III)
+
+   Part 1
+   Exp.OC-1. Qualitative Analysis of Given Organic Compound
+   Exp.OC-2. Qualitative Analysis of Given Organic Compound
+   Exp.IC-1. Estimation of Calcium in milk powder by Complexometric titration using
+   Ethylenediaminetetraacetic acid (EDTA).
+   Exp.IC-2. Estimation of Nickel in [Ni (NH3)6] Cl2 by Gravimetry
+   Exp.PC-1. Determination of First Order Rate Constant (REACTION KINETICS)
+   Exp.PC-2. Determination of Isoelectric Point of Amino Acid by pH-metric titration. (pH
+   metry)
+   Part II
+   OC1 Conversion of benzoic acid to methyl benzoate
+   OC2 Conversion of ester to acid hydrazide.
+   IC1 Synthesis of transition metal complexes (Cu/ Fe) with Schiff base ligands
+   IC2 Synthesis of gold nanoparticles using tea extract and its characterization by UV-Vi      s.
+   PC1 Conductometry: Determination of concentration of aspirin in given tablet by
+   Conductometric Titration
+   PC2 Volumetry: Determination of acid neutralizing power of a commercial antacid
 
 
 ### **Chemistry Lab I** (Sem II)
@@ -424,6 +533,48 @@ This is an exhaustive list of courses that I've taken till now at IISER tirupati
 
    - Oscillations in biology, Robustness.
    
+### **Foundations of Biology III : Evolution and ecology** (Sem III)
+   
+   - Ecosystems, habitats, the diversity of life, niches and resources, food
+   webs, biogeography. (5L)
+
+   - Evolution, natural selection, sexual selection, speciation, phylogenetic
+   trees. (5L)
+
+   - Population ecology: Survivorship curves, Life-tables, Simple population
+   dynamics models and their behavior, spatial ecology. (5L)
+
+   - Community ecology: Species interactions, competition; predation;
+   resource partitioning. (5L)
+
+   - Life history strategies, behavioural ecology – approaches and overview,
+   mating systems. (5L)
+
+   - Conservation biology: climate change, extinction, threats to species,
+   fragmentation, habitat loss. Case studies in the real world and India. (5L)
+   
+### **Biology for Society** (Sem III)
+   
+   - Infection & Immunity: Vaccines/Ab therapies. (4)
+
+   - Antibiotics/probiotics/biosimilar/New approaches against
+   multi-drug resistance. (4)
+
+   - Genetic disorders, fight against cancer and neurological
+   disorders. (4)
+
+   - Life style disorders and therapies (2)
+
+   - Regenerative medicine: Tissue Engineering/Stem cell
+   therapy/Tissue regeneration as therapy approaches against
+   tissue disease. (4)
+
+   - Plant Biotechnology and Trait improved agricultural produce.
+   (4)
+
+   - Climate change and environmental protection (4)
+
+
 
 ### **Introductory Biology II: Genetics and Molecular Biology** (Sem II)
 
@@ -475,7 +626,26 @@ This is an exhaustive list of courses that I've taken till now at IISER tirupati
    13. Confirmation of Recombinant Plasmid DNA by Restriction digestion
 
    14. Animal Cell culture Demo
-   
+
+# **Interdisciplinary courses**
+
+### **Computational methods** (Sem III)
+
+   1. **Introduction to Python**: Python interpreter, Syntax and Semantic,
+   Numbers and Strings-2 L
+   Lists, Tuples, Sets, Dictionaries and related operations,
+   Array, Sorting-2L
+   Functions and Conditional expressions
+   Iterators and Generators, Loops, for, while, if, else, break,
+   continue, pass statements, Recursion- 2L
+   Data structures and Files-1L
+   Modules: Matplotlib, NumPy, SciPy
+   Data visualization and plotting in 1D, 2D and 3D-2L
+
+   2. **Numerical techniques using Python**: Vector and Matrix algebra,
+   Differentiation, Integration, Polynomials, Finding roots of an equation, Least
+   square fitting, Linear interpolation and extrapolation-5 L
+
 
 # **Humanities and Social Sciences**
 
