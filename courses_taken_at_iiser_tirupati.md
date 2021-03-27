@@ -55,6 +55,7 @@ This is an exhaustive list of courses that I've taken till now at IISER tirupati
 
 
    [1] D. Dummit, R. Foote, Abstract Algebra, 3rd edn., Wiley India, 2004.
+
    [2] M. Artin, Algebra, Pearson Prentice Hall, 2011.
 
 ### **Real Analysis** (Sem V)
@@ -93,7 +94,9 @@ This is an exhaustive list of courses that I've taken till now at IISER tirupati
    series, Exponential, Logarithm and Trigonometric functions.([1] Ch. 8 and [3] Ch. 8)
 
    [1] W. Rudin, Principles of Mathematical Analysis, 3rd edn., Tata McGraw-Hill, 1978.
+
    [2] T. Apostol, Mathematical Analysis, 2nd edn., Pearson, 1974.
+
    [3] R. Bartle and D. Sherbert, Introduction to Real Analysis, 4th edn., John Wiley and Sons, 2011.
 
 ### **Topology** (Sem V)
@@ -126,6 +129,7 @@ This is an exhaustive list of courses that I've taken till now at IISER tirupati
    (see [1] Ch. 4, 6)
 
    [1] James R. Munkres, Topology, Pearson, 2nd edition, 2000.
+   
    [2] G. F. Simmons, Introduction to Topology and Modern Analysis, McGraw Hill Education, 2017.
 
 ### **Linear Algebra** (Sem V)
@@ -165,10 +169,10 @@ This is an exhaustive list of courses that I've taken till now at IISER tirupati
    - Quadratic Reciprocity Law.
    (Reference: Ch 9 of [1], Ch. 5 of [2])
 
-   [1] David M. Burton - Elementary Number Theory, 6th edi-
-   tion. McGraw-Hill, 2007.
+   [1] David M. Burton - Elementary Number Theory, 6th edition. McGraw-Hill, 2007.
+
    [2] Kenneth Ireland and Michael Rosen - A classical intro-
-   duction to modern Number Theory, 2nd edition. Springer
+   duction to modern Number Theory, 2nd edition. Springer GTM, 1990.
 
 
 
