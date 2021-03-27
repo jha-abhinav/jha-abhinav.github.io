@@ -300,11 +300,11 @@ This is an exhaustive list of courses that I've taken till now at IISER tirupati
 
    - Introduction- Euler Lagrange equation from 
    variational principle -Brachistochrone - 
-   constraints &Lagrange multipliers- integrals of 
+   constraints & Lagrange multipliers- integrals of 
    motion- conservation theorems & symmetries –
    velocity dependent potential - 10 lectures 
     
-   – Hamiltonian- canonical equations - Poisson 
+   - Hamiltonian- canonical equations - Poisson 
    brackets- Symplectic formulation- 4 lectures 
     
    - Canonical transformations- Hamilton Jacobi 
@@ -316,7 +316,7 @@ This is an exhaustive list of courses that I've taken till now at IISER tirupati
    - Rigid body dynamics-Euler angles- Euler 
    equations-heavy symmetric top-4 lectures 
     
-   -Continuous systems-Wave equation- classical fileds-2 lectures 
+   - Continuous systems-Wave equation- classical fileds-2 lectures 
     
    - Classical perturbation theory- nonlinear oscillators- 4 lectures
 
