@@ -34,141 +34,141 @@ This is an exhaustive list of courses that I've taken till now at IISER tirupati
 
 ### **Group Theory** (Sem V)
 
-	Dr. Venketasubramanian C G
+   Dr. Venketasubramanian C G
 
-	- Definition and first examples on smaller sets and matrix
-	groups, homomorphisms, subgroups, normal subgroups, more
-	examples: cyclic groups, symmetric groups and dihedral
-	groups, cosets, quotient groups, Lagrange’s theorem and the
-	isomorphism theorems. (see [1], Ch. 1 (barring Sec. 7), Ch. 2, Ch. 3)
+   - Definition and first examples on smaller sets and matrix
+   groups, homomorphisms, subgroups, normal subgroups, more
+   examples: cyclic groups, symmetric groups and dihedral
+   groups, cosets, quotient groups, Lagrange’s theorem and the
+   isomorphism theorems. (see [1], Ch. 1 (barring Sec. 7), Ch. 2, Ch. 3)
 
-	- Symmetric and alternating groups, Cayley’s theorem, direct
-	products and direct sums of groups. (see [1], Ch. 4 Sec. 1 and 2, Ch. 5 Sec. 1 and 4)
+   - Symmetric and alternating groups, Cayley’s theorem, direct
+   products and direct sums of groups. (see [1], Ch. 4 Sec. 1 and 2, Ch. 5 Sec. 1 and 4)
 
-	- Classification of finite abelian groups and finitely-generated
-	abelian groups. (see [1], Ch. 5 Sec. 2)
+   - Classification of finite abelian groups and finitely-generated
+   abelian groups. (see [1], Ch. 5 Sec. 2)
 
-	- Actions of groups on sets, automorphisms, Sylow’s theorem,
-	classification of groups of small order. (see [1], Ch. 1 Sec. 7, Ch. 4 Sec. 3, 4 and 5, Ch. 5 Sec. 3)
+   - Actions of groups on sets, automorphisms, Sylow’s theorem,
+   classification of groups of small order. (see [1], Ch. 1 Sec. 7, Ch. 4 Sec. 3, 4 and 5, Ch. 5 Sec. 3)
 
-	- Linear groups, orthogonal groups and unitary groups. (see [2] Ch.8)
+   - Linear groups, orthogonal groups and unitary groups. (see [2] Ch.8)
 
 
-	[1] D. Dummit, R. Foote, Abstract Algebra, 3rd edn., Wiley India, 2004.
-	[2] M. Artin, Algebra, Pearson Prentice Hall, 2011.
+   [1] D. Dummit, R. Foote, Abstract Algebra, 3rd edn., Wiley India, 2004.
+   [2] M. Artin, Algebra, Pearson Prentice Hall, 2011.
 
 ### **Real Analysis** (Sem V)
 
-	Dr. B. Subhash, Dr. Gururaja H. A. (Participating Faculty) 
+   Dr. B. Subhash, Dr. Gururaja H. A. (Participating Faculty) 
 
-	- *Review of real number system*: Field properties, Order prop-
-	erties, LUB Axiom and Consequences, Construction of the
-	field of real numbers. ([1] Ch. 1 and [3] Ch. 2)
+   - *Review of real number system*: Field properties, Order prop-
+   erties, LUB Axiom and Consequences, Construction of the
+   field of real numbers. ([1] Ch. 1 and [3] Ch. 2)
 
-	- *Sequences*: Limit Theorems, Monotone sequences, Bolzano-
-	Weierstrass Theorem, Cauchy criterion. ([1] Ch. 3 and [3] Ch. 3)
+   - *Sequences*: Limit Theorems, Monotone sequences, Bolzano-
+   Weierstrass Theorem, Cauchy criterion. ([1] Ch. 3 and [3] Ch. 3)
 
-	- *Series*: Convergence, Absolute Convergence, Tests for conver-
-	gence. ([1] Ch. 3 and [3] Ch. 3, Ch. 9)
+   - *Series*: Convergence, Absolute Convergence, Tests for conver-
+   gence. ([1] Ch. 3 and [3] Ch. 3, Ch. 9)
 
-	- *Continuity*: Continuous real valued functions on a subset of
-	R, algebra of continuous functions, Continuous functions on
-	Intervals, Uniform Continuity, Monotone and Inverse Func-
-	tions. ([1] Ch. 4 and [3] Ch. 5)
+   - *Continuity*: Continuous real valued functions on a subset of
+   R, algebra of continuous functions, Continuous functions on
+   Intervals, Uniform Continuity, Monotone and Inverse Func-
+   tions. ([1] Ch. 4 and [3] Ch. 5)
 
-	- *Differentiation*:
-	Derivative, Algebra of differentiable func-
-	tions, Chain rule, Mean Value Theorem, Taylors Theorem,
-	LHospital Rule. ([1] Ch. 5 and [3] Ch. 6)
+   - *Differentiation*:
+   Derivative, Algebra of differentiable func-
+   tions, Chain rule, Mean Value Theorem, Taylors Theorem,
+   LHospital Rule. ([1] Ch. 5 and [3] Ch. 6)
 
-	- *Integration*: Riemann Integral and Riemann-Stieljets integral,
-	Riemann Integrable Functions, Fundamental Theorem of Cal-
-	culus, Change of Variable. ([1] Ch. 6 and [3] Ch. 7)
+   - *Integration*: Riemann Integral and Riemann-Stieljets integral,
+   Riemann Integrable Functions, Fundamental Theorem of Cal-
+   culus, Change of Variable. ([1] Ch. 6 and [3] Ch. 7)
 
-	- *Sequences of functions*: Pointwise and Uniform Convergence,
-	Interchange of Limits, Stone-Weierstrass theorem. ([1] Ch. 7,
-	and [3] Ch. 8, Ch. 9)
+   - *Sequences of functions*: Pointwise and Uniform Convergence,
+   Interchange of Limits, Stone-Weierstrass theorem. ([1] Ch. 7,
+   and [3] Ch. 8, Ch. 9)
 
-	- *Series of functions*: Tests for uniform Convergence, Power
-	series, Exponential, Logarithm and Trigonometric functions.([1] Ch. 8 and [3] Ch. 8)
+   - *Series of functions*: Tests for uniform Convergence, Power
+   series, Exponential, Logarithm and Trigonometric functions.([1] Ch. 8 and [3] Ch. 8)
 
-	[1] W. Rudin, Principles of Mathematical Analysis, 3rd edn., Tata McGraw-Hill, 1978.
-	[2] T. Apostol, Mathematical Analysis, 2nd edn., Pearson, 1974.
-	[3] R. Bartle and D. Sherbert, Introduction to Real Analysis, 4th edn., John Wiley and Sons, 2011.
+   [1] W. Rudin, Principles of Mathematical Analysis, 3rd edn., Tata McGraw-Hill, 1978.
+   [2] T. Apostol, Mathematical Analysis, 2nd edn., Pearson, 1974.
+   [3] R. Bartle and D. Sherbert, Introduction to Real Analysis, 4th edn., John Wiley and Sons, 2011.
 
 ### **Topology** (Sem V)
 
-	Dr. R. Lakshmi Lavanya
+   Dr. R. Lakshmi Lavanya
 
-	- *Metric spaces*: Definition and examples, Open and closed sets,
-	Sequences, Continuity. (see [2] Ch. 2)
+   - *Metric spaces*: Definition and examples, Open and closed sets,
+   Sequences, Continuity. (see [2] Ch. 2)
 
-	- *Topological spaces*:
-	Definition and examples, bases and
-	sub-bases, Continuous functions, homeomorphisms, product
-	topology, quotient topology. (see [1] Ch. 2)
+   - *Topological spaces*:
+   Definition and examples, bases and
+   sub-bases, Continuous functions, homeomorphisms, product
+   topology, quotient topology. (see [1] Ch. 2)
 
-	- *Compactness*: Compact topological Spaces, Tychonoff the-
-	orem, local compactness, Sequential and Limit Point Com-
-	pactness, One-point Compactification, Compactness in metric
-	spaces, Heine Borel theorem, Arzela-Ascoli Theorem, Stone-
-	Weirstrass Theorem. (see [1] Ch. 3, 5, 7, 8; [2] Ch. 4, 7)
+   - *Compactness*: Compact topological Spaces, Tychonoff the-
+   orem, local compactness, Sequential and Limit Point Com-
+   pactness, One-point Compactification, Compactness in metric
+   spaces, Heine Borel theorem, Arzela-Ascoli Theorem, Stone-
+   Weirstrass Theorem. (see [1] Ch. 3, 5, 7, 8; [2] Ch. 4, 7)
 
-	- Completeness in Metric spaces, Baire Category Theorem. (see
-	[2] Ch. 2; [1] Ch. 7, 8)
+   - Completeness in Metric spaces, Baire Category Theorem. (see
+   [2] Ch. 2; [1] Ch. 7, 8)
 
-	- Connected and path connected spaces, Connectedness in
-	metric spaces, locally connected and locally path connected
-	spaces. (see [1] Ch. 3)
+   - Connected and path connected spaces, Connectedness in
+   metric spaces, locally connected and locally path connected
+   spaces. (see [1] Ch. 3)
 
-	- Countability and Separation axioms, Urysohn lemma,
-	Urysohn Metrization Theorem, Tietze extension theorem.
-	(see [1] Ch. 4, 6)
+   - Countability and Separation axioms, Urysohn lemma,
+   Urysohn Metrization Theorem, Tietze extension theorem.
+   (see [1] Ch. 4, 6)
 
-	[1] James R. Munkres, Topology, Pearson, 2nd edition, 2000.
-	[2] G. F. Simmons, Introduction to Topology and Modern Analysis, McGraw Hill Education, 2017.
+   [1] James R. Munkres, Topology, Pearson, 2nd edition, 2000.
+   [2] G. F. Simmons, Introduction to Topology and Modern Analysis, McGraw Hill Education, 2017.
 
 ### **Linear Algebra** (Sem V)
 
-	Dr. Souradeep Majumder.
+   Dr. Souradeep Majumder.
 
-	Vector spaces, subspaces, quotient spaces, bases and dimen-
-	sion, direct sums. Linear transformations and their matrix
-	representations. Invariant subspaces for a linear transforma-
-	tion, simultaneous triangulation and diagonalization, Cayley-
-	Hamilton theorem. Jordan decomposition of a linear trans-
-	formation, Rational and Jordan canonical forms of matrices.
-	(Reference: [1, Chapters 2, 3, 6, 7]).
+   Vector spaces, subspaces, quotient spaces, bases and dimen-
+   sion, direct sums. Linear transformations and their matrix
+   representations. Invariant subspaces for a linear transforma-
+   tion, simultaneous triangulation and diagonalization, Cayley-
+   Hamilton theorem. Jordan decomposition of a linear trans-
+   formation, Rational and Jordan canonical forms of matrices.
+   (Reference: [1, Chapters 2, 3, 6, 7]).
 
-	[1] K. Hoffman, R. Kunze. Linear Algebra. Pearson (1971).
+   [1] K. Hoffman, R. Kunze. Linear Algebra. Pearson (1971).
 
 ### **Elementary Number Theory** (Sem V)
 
-	Dr. Nagaraj D S.
+   Dr. Nagaraj D S.
 
-	- Integers: The division algorithm, greatest common divisor,
-	The Euclidean algorithm, The Diophantine Equation ax +
-	by = c, The Fundamental Theorem of Arithmetic.
-	(Reference: Ch. 2 of [1], Ch. 1 of [2])
+   - Integers: The division algorithm, greatest common divisor,
+   The Euclidean algorithm, The Diophantine Equation ax +
+   by = c, The Fundamental Theorem of Arithmetic.
+   (Reference: Ch. 2 of [1], Ch. 1 of [2])
 
-	- Congruences: Basic Properties of Congruence, Linear Con-
-	gruences.
-	(Reference: Ch. 4 of [1], Ch. 3 of [2])
+   - Congruences: Basic Properties of Congruence, Linear Con-
+   gruences.
+   (Reference: Ch. 4 of [1], Ch. 3 of [2])
 
-	- Fermats Little Theorem, Wilsons Theorem.
-	(Reference: Ch. 5 of [1])
+   - Fermats Little Theorem, Wilsons Theorem.
+   (Reference: Ch. 5 of [1])
 
-	- Number Theoretic Functions τ and σ, Eulers Function and
-	Euler’s generalization of Fermats Theorem.
-	(Reference: Ch. 6, 7 of [1])
+   - Number Theoretic Functions τ and σ, Eulers Function and
+   Euler’s generalization of Fermats Theorem.
+   (Reference: Ch. 6, 7 of [1])
 
-	- Quadratic Reciprocity Law.
-	(Reference: Ch 9 of [1], Ch. 5 of [2])
+   - Quadratic Reciprocity Law.
+   (Reference: Ch 9 of [1], Ch. 5 of [2])
 
-	[1] David M. Burton - Elementary Number Theory, 6th edi-
-	tion. McGraw-Hill, 2007.
-	[2] Kenneth Ireland and Michael Rosen - A classical intro-
-	duction to modern Number Theory, 2nd edition. Springer
+   [1] David M. Burton - Elementary Number Theory, 6th edi-
+   tion. McGraw-Hill, 2007.
+   [2] Kenneth Ireland and Michael Rosen - A classical intro-
+   duction to modern Number Theory, 2nd edition. Springer
 
 
 
