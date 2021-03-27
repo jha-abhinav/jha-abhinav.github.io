@@ -294,6 +294,34 @@ This is an exhaustive list of courses that I've taken till now at IISER tirupati
 
 ## **Physics**
 
+### **Classical Mechanics** (Sem V)
+
+   Prof. G. Ambika
+
+   - Introduction- Euler Lagrange equation from 
+   variational principle -Brachistochrone - 
+   constraints &Lagrange multipliers- integrals of 
+   motion- conservation theorems & symmetries –
+   velocity dependent potential - 10 lectures 
+    
+   – Hamiltonian- canonical equations - Poisson 
+   brackets- Symplectic formulation- 4 lectures 
+    
+   - Canonical transformations- Hamilton Jacobi 
+   theory- Action angle variables- 8 lectures 
+    
+   - Central force motion- integrals- Kepler 
+   problem, Classical scattering -4 lectures 
+    
+   - Rigid body dynamics-Euler angles- Euler 
+   equations-heavy symmetric top-4 lectures 
+    
+   -Continuous systems-Wave equation- classical fileds-2 lectures 
+    
+   - Classical perturbation theory- nonlinear oscillators- 4 lectures
+
+   [1] Classical Mechanics, H Goldstein, C Poole & J Safko, 3rd ed. Pearson(2002).
+
 ### **Foundations of Physics IV: Quantum Physics** (Sem IV)
 
 
