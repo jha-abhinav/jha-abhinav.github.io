@@ -142,7 +142,7 @@ Reference: Ch. 4,5 of [2].
 
 ### **Complex Analysis** (Sem VI)
 
-**Dr. Girja Shanker Tripathi**[http://www.iisertirupati.ac.in/faculty/girja/girja.php](http://www.iisertirupati.ac.in/faculty/girja/girja.php)
+**Dr. Girja Shanker Tripathi** [http://www.iisertirupati.ac.in/faculty/girja/girja.php](http://www.iisertirupati.ac.in/faculty/girja/girja.php)
 
 - The field of Complex numbers, extended complex plane, 
 convergence, complex differentiation, power series, exponential, 
@@ -166,7 +166,7 @@ Reference: Ch. of [2].
 
 ### **Rings and Modules** (Sem VI)
 
-**Dr. Shalini Bhattacharya**[https://iisertirupati.irins.org/profile/95590](https://iisertirupati.irins.org/profile/95590)
+**Dr. Shalini Bhattacharya** [https://iisertirupati.irins.org/profile/95590](https://iisertirupati.irins.org/profile/95590)
 
 - Definition and examples of rings. Ring homomorphisms, ideals, 
 quotient rings. The isomorphism theorems. Properties of ideals, 
@@ -441,7 +441,7 @@ Reference: Ch. 9,12 of [2].
 
 ### **Single Variable Calculus** (Sem II)
 
-   **Dr. Shalini Bhattacharya**[https://iisertirupati.irins.org/profile/95590](https://iisertirupati.irins.org/profile/95590)
+   **Dr. Shalini Bhattacharya** [https://iisertirupati.irins.org/profile/95590](https://iisertirupati.irins.org/profile/95590)
 
    - **Limits and continuity**: Functions, limits, sequences, continuity,
    basic properties of limits and continuous functions, intermediate
