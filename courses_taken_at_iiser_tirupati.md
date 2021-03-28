@@ -32,6 +32,107 @@ This is an exhaustive list of courses that I've taken till now at IISER tirupati
 
 ## **MATHS**  
 
+### **Measure Theory and Integration** (Sem VI)
+
+Dr. Souradeep Majumder
+
+- Algebra and -algebra of sets, Outer measure, Lebesgue measure, 
+measurable sets, existence of non-measurable sets, nowhere 
+dense sets with positive measure, Cantor sets. [10 L] Reference: 
+Ch. 1,2 of [1].  
+   
+- Measurable functions, Lebesgue integral, Basic properties of 
+Lebesgue integral, convergence in measure, Integrability. [8 L]  
+Reference: Ch. 1,2,5 of [1].  
+
+- Littlewood’s three principles, Monotone and Dominated 
+convergence theorems, Fatou’s lemma, Vitali’s convergence 
+theorem, Egorov’s theorem and Lusin’s theorem, di↵erentiation 
+and Lebesgue measure. [10 L] Reference: Ch. 3,4,5,6 of [1].  
+
+- Lp-Spaces, Holder and Minkowski inequalities, Radon-Nikodym 
+theorem, Riesz representation theorem. Convolution, product 
+measure and Fubini’s theorem. [12 L] Reference: Ch. 7,8,18 of [1].
+
+[1] H. L. Royden & P. M. Fitzpatrick, Real Analysis, PHI, 2011.  
+[2] G. Folland, Real Analysis, Wiley, 2007.  
+[3] P. Halmos, Measure Theory, Springer, 1978.  
+[4] W. Rudin, Real and Complex Analysis, McGraw Hill, 1986.  
+
+### **Calculus on Manifolds** (Sem VI)
+
+Dr. Subhash B.
+
+- Derivative of maps between Euclidean spaces , partial 
+derivatives, chain rule, inverse and implicit function theorems, 
+rank theorem, Liebnitz rule, equality of mixed partials, Taylors 
+theorem, Maxima and minima for functions of several variables, 
+Lagrange multipliers. [14L] Reference: Ch. 2 of [2].  
+
+- Multiple Riemann integral, integrable functions, Fubinis 
+theorem, partitions of unity and The change of variable formula,  
+Sards theorem. [16L] Reference: Ch. 3 of [2].  
+
+- Integration on chains, manifolds and differential forms, the 
+exterior derivative, Poincare lemma, integration of forms, 
+Stokes theorem, Greens and Gauss theorems. [10L]  
+Reference: Ch. 4,5 of [2].
+
+[1] J. Munkres, Analysis on Manifolds, Addison-Wesley, 1997.  
+[2] M. Spivak, Calculus on Manifolds, Taylor and Francis, 1971.  
+[3] T. Apostol, Mathematical Ananlysis, Narosa, 2002.  
+[4] W. Rudin, Principles of Mathematical Analysis, Springer, 1978. 
+
+
+### **Complex Analysis** (Sem VI)
+
+Dr. Girija Shanker Tripathi
+
+- The field of Complex numbers, extended complex plane, 
+convergence, complex differentiation, power series, exponential, 
+logarithm, trigonometric and harmonic functions. Cauchy 
+Riemann equations, analytic functions. [8L] Reference: Ch. of [2].
+
+- Complex integration, Cauchy theorem and integral formula, 
+power series representation, zeros of analytic function, index of 
+closed curves, Moreras theorem, Liouvilles theorem, open 
+mapping theorem. [16L] Reference: Ch. of [2].  
+
+- Argument principle, Rouche's theorem. Poles, essential 
+singularities, Casorati-Weierstrass theorem. Residues, Laurent series. 
+Maximum modulus principle, Schwarz lemma, 
+conformality of analytic maps, Mobius transformation. [16L] 
+Reference: Ch. of [2].
+
+[1] L. Ahlfors, Complex Analysis, McGraw Hill, 1978.  
+[2] J. Conway, Functions of One Complex Variable, Spinger, 
+1978.
+
+### **Rings and Modules** (Sem VI)
+
+Dr. Shalini Bhattacharya 
+
+- Definition and examples of rings. Ring homomorphisms, ideals, 
+quotient rings. The isomorphism theorems. Properties of ideals, 
+prime and maximal ideals. Polynomial rings, integral domains, PID, 
+UFD, division algorithm and Euclidean domains. Factorization in 
+the ring of Gaussian integers. The modular arithmetic and the 
+Chinese remainder theorem. Reference: Ch. 7,8,9 of [2].
+
+- Modules, submodules, quotients modules, module homomorphisms, isomorphism theorems. Direct product and direct 
+sum of modules, free modules. Exact sequences, 5lemma and snake 
+lemma. The Hom and tensor products of modules. The projective 
+and injective modules. Reference: Ch. 10 of [2].  
+
+- Structure theorem for modules over PID: elementary divisors and 
+invariant factor forms. Noetherian and Artinian rings and modules, 
+Hilbert basis theorem, simple modules, composition series, and Jordan-Holder theorem for modules. 
+Reference: Ch. 9,12 of [2].  
+
+[1] M. Artin, Algebra, Pearson, 2010.  
+[2] Dummit and Foote, Abstract Algebra, Wiley, 2011.  
+[3] I. Herstein, Topics in Algebra, Wiley, 2006.
+
 ### **Group Theory** (Sem V)
 
    Dr. Venketasubramanian C G
@@ -136,7 +237,7 @@ This is an exhaustive list of courses that I've taken till now at IISER tirupati
 
    Dr. Souradeep Majumder.
 
-   Vector spaces, subspaces, quotient spaces, bases and dimen-
+   - Vector spaces, subspaces, quotient spaces, bases and dimen-
    sion, direct sums. Linear transformations and their matrix
    representations. Invariant subspaces for a linear transforma-
    tion, simultaneous triangulation and diagonalization, Cayley-
@@ -325,40 +426,40 @@ This is an exhaustive list of courses that I've taken till now at IISER tirupati
 ### **Foundations of Physics IV: Quantum Physics** (Sem IV)
 
 
-   - **The origins of quantum theory**: Blackbody radiation
+   - *The origins of quantum theory*: Blackbody radiation
    and Planck’s radiation law.
 
-   - **Wave-particle duality**:
+   - *Wave-particle duality*:
    Photoelectric effect, Compton effect, De-Broglie wavelength, Electron
    diffraction.
 
-   - **Atomic Structure**: Bohr atom model, Electron orbits,
+   - *Atomic Structure*: Bohr atom model, Electron orbits,
    Energy levels, Atomic spectra, Failures of Bohr atom
    model.
 
-   - **Basics of Quantum mechanics**: Wave function,
+   - *Basics of Quantum mechanics*: Wave function,
    Schrödinger equation, Quantum measurements, Operators,
    Eigenfunctions, Eigenvalues, Expectation values,
    Uncertainty
    principle.
 
-   - **Applications of Quantum mechanics**: Pedagogical
+   - *Applications of Quantum mechanics*: Pedagogical
    examples: Free particle, Particle in a box, Quantization
    of energy levels, Potential barrier problem, Tunnelling
    effect, Harmonic oscillator, and zero-point energy.
 
-   - **Spin – an intrinsic quantum property of particles**:
+   - *Spin – an intrinsic quantum property of particles*:
    Stern-Gerlach experiment, electron spin,
    Fermions, Bosons.
 
-   - **Statistical Mechanics**: Molecular energies in ideal gas,
+   - *Statistical Mechanics*: Molecular energies in ideal gas,
    Maxwell-Boltzmann statistics, Bose-Einstein and
    Fermi-Dirac statistics.
 
-   - **Solid state Physics**: Chemical bonding, Band theory of
+   - *Solid state Physics*: Chemical bonding, Band theory of
    solids, Density of states, Fermi Energy.
 
-   - **Practical Applications**: Tunnel diode,
+   - *Practical Applications*: Tunnel diode,
    Superconductivity, Semiconductors, Lasers, NMR,
    Atomic clocks, Quantum tunnelling and mutations in
    DNA, Quantum coherence and photosynthesis.
