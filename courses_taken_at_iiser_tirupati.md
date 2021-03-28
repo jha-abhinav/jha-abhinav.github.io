@@ -34,7 +34,7 @@ This is an exhaustive list of courses that I've taken till now at IISER tirupati
 
 ### **Fourier Analysis** (Sem VI)
 
-Dr. R. Lakshmi Lavanya 
+**Dr. R. Lakshmi Lavanya** [http://www.iisertirupati.ac.in/faculty/rlakshmilavanya/lakshmi.php](http://www.iisertirupati.ac.in/faculty/rlakshmilavanya/lakshmi.php)
 
 - Introduction to Fourier series: Convolutions, Good kernels, basis 
 approximation theorem, Convergence of Fourier series.  
@@ -64,7 +64,7 @@ An Introduction, Princeton University Press, 2003.
 
 ### **Introduction to Lie Algebras** (Sem VI)
 
-Dr. Venketasubramanian C.G.
+**Dr. Venketasubramanian C.G.** [https://iisertirupati.irins.org/profile/95604](https://iisertirupati.irins.org/profile/95604)
 
 - Lie algebras, subalgebras, ideals, Solvable and Nilpotent Lie 
 algebras, Engel’s theorem. [6 L] Reference: Ch. 1-3 of [1].  
@@ -90,7 +90,7 @@ Representation Theory, Springer, 1972.
 
 ### **Measure Theory and Integration** (Sem VI)
 
-Dr. Souradeep Majumder
+**Dr. Souradeep Majumder** [http://www.iisertirupati.ac.in/faculty/souradeep/index.php](http://www.iisertirupati.ac.in/faculty/souradeep/index.php)
 
 - Algebra and -algebra of sets, Outer measure, Lebesgue measure, 
 measurable sets, existence of non-measurable sets, nowhere 
@@ -117,7 +117,7 @@ measure and Fubini’s theorem. [12 L] Reference: Ch. 7,8,18 of [1].
 
 ### **Calculus on Manifolds** (Sem VI)
 
-Dr. Subhash B.
+**Dr. Subhash B.** [http://www.iisertirupati.ac.in/faculty/subhash/subhash.php](http://www.iisertirupati.ac.in/faculty/subhash/subhash.php)
 
 - Derivative of maps between Euclidean spaces , partial 
 derivatives, chain rule, inverse and implicit function theorems, 
@@ -142,7 +142,7 @@ Reference: Ch. 4,5 of [2].
 
 ### **Complex Analysis** (Sem VI)
 
-Dr. Girija Shanker Tripathi
+**Dr. Girja Shanker Tripathi**[http://www.iisertirupati.ac.in/faculty/girja/girja.php](http://www.iisertirupati.ac.in/faculty/girja/girja.php)
 
 - The field of Complex numbers, extended complex plane, 
 convergence, complex differentiation, power series, exponential, 
@@ -166,7 +166,7 @@ Reference: Ch. of [2].
 
 ### **Rings and Modules** (Sem VI)
 
-Dr. Shalini Bhattacharya 
+**Dr. Shalini Bhattacharya**[https://iisertirupati.irins.org/profile/95590](https://iisertirupati.irins.org/profile/95590)
 
 - Definition and examples of rings. Ring homomorphisms, ideals, 
 quotient rings. The isomorphism theorems. Properties of ideals, 
@@ -191,7 +191,7 @@ Reference: Ch. 9,12 of [2].
 
 ### **Group Theory** (Sem V)
 
-   Dr. Venketasubramanian C G
+   **Dr. Venketasubramanian C G** [https://iisertirupati.irins.org/profile/95604](https://iisertirupati.irins.org/profile/95604)
 
    - Definition and first examples on smaller sets and matrix
    groups, homomorphisms, subgroups, normal subgroups, more
@@ -217,7 +217,9 @@ Reference: Ch. 9,12 of [2].
 
 ### **Real Analysis** (Sem V)
 
-   Dr. B. Subhash, Dr. Gururaja H. A. (Participating Faculty) 
+   **Dr. Subhash B.** [http://www.iisertirupati.ac.in/faculty/subhash/subhash.php](http://www.iisertirupati.ac.in/faculty/subhash/subhash.php)
+
+   **Dr. Gururaja H. A.** (Participating Faculty) [https://iisertirupati.irins.org/profile/95604](https://iisertirupati.irins.org/profile/95604)
 
    - *Review of real number system*: Field properties, Order prop-
    erties, LUB Axiom and Consequences, Construction of the
@@ -258,7 +260,7 @@ Reference: Ch. 9,12 of [2].
 
 ### **Topology** (Sem V)
 
-   Dr. R. Lakshmi Lavanya
+   **Dr. R. Lakshmi Lavanya** [http://www.iisertirupati.ac.in/faculty/rlakshmilavanya/lakshmi.php](http://www.iisertirupati.ac.in/faculty/rlakshmilavanya/lakshmi.php)
 
    - *Metric spaces*: Definition and examples, Open and closed sets,
    Sequences, Continuity. (see [2] Ch. 2)
@@ -291,7 +293,7 @@ Reference: Ch. 9,12 of [2].
 
 ### **Linear Algebra** (Sem V)
 
-   Dr. Souradeep Majumder.
+   **Dr. Souradeep Majumder.** [http://www.iisertirupati.ac.in/faculty/souradeep/index.php](http://www.iisertirupati.ac.in/faculty/souradeep/index.php)
 
    - Vector spaces, subspaces, quotient spaces, bases and dimen-
    sion, direct sums. Linear transformations and their matrix
@@ -301,7 +303,7 @@ Reference: Ch. 9,12 of [2].
    formation, Rational and Jordan canonical forms of matrices.
    (Reference: [1, Chapters 2, 3, 6, 7]).
 
-   [1] K. Hoffman, R. Kunze. Linear Algebra. Pearson (1971).
+   [1] K. Hoffman, R. Kunze. Linear Algebra, Pearson (1971).
 
 ### **Elementary Number Theory** (Sem V)
 
@@ -335,7 +337,9 @@ Reference: Ch. 9,12 of [2].
 
 ###  **Basic Structures in Mathematics** (Sem IV)
 
-   <!--**Course content**:-->
+   **Dr. R. Lakshmi Lavanya** [http://www.iisertirupati.ac.in/faculty/rlakshmilavanya/lakshmi.php](http://www.iisertirupati.ac.in/faculty/rlakshmilavanya/lakshmi.php)
+   
+   **Dr. Shalini Bhattacharya**[https://iisertirupati.irins.org/profile/95590](https://iisertirupati.irins.org/profile/95590)
 
    - **Introduction to Complex Variables**: Complex number system,
    Geometric Representation, Polar form of complex numbers,
@@ -351,10 +355,14 @@ Reference: Ch. 9,12 of [2].
    symmetry of geometric objects, abelian groups, structure of
    finite abelian groups. 
 
+   - **Books**:
+   [1] L. Ahlfors, Complex Analysis, McGraw Hill, 1978.  
+
+   [2] M. Artin, Algebra, Pearson Prentice Hall, 2011.
+
 ### **Probability and Statistics** (Sem IV)
 
-
-   <!--**Course content**:-->
+   **Dr. Souradeep Majumder.** [http://www.iisertirupati.ac.in/faculty/souradeep/index.php](http://www.iisertirupati.ac.in/faculty/souradeep/index.php)
 
    - Sample space and events, random variables, basics of probability,
    conditional probability, Bayes theorem, independence of random
@@ -365,7 +373,7 @@ Reference: Ch. 9,12 of [2].
    - Expectation of random variables (and their functions),
    jointly distributed random variables and multivariate distributions,
    moment generating functions and their properties, limit theorems
-   including Strong Law of Large Numbers and Central Limit Theorem
+   including Strong Law of Large Numbers and Central Limit Theorem.
 
    - Basic descriptive statistics, linear regression, basics of estimation
    like desired properties of an estimator, maximum likelihood
@@ -373,7 +381,11 @@ Reference: Ch. 9,12 of [2].
    intervals, basics of hypothesis testing with some examples of test
    like the chi-squared test.
 
+   [1] Sheldon Ross, A First Course in Probability, Pearson (2014).
+
 ### **Multivariable Calculus** (Sem III)
+
+   **Dr. Gururaja H. A.** [https://iisertirupati.irins.org/profile/95604](https://iisertirupati.irins.org/profile/95604)
 
    - **Vectors**: Vectors, coordinate systems (Cartesian and polar), dot
    product, cross product. ([1], Ch. 1)
@@ -393,8 +405,11 @@ Reference: Ch. 9,12 of [2].
    divergence, level sets, parametric surfaces, surface integrals, Stokes
    theorem, Gauss Divergence theorem. ([1], Ch. 6 and Ch. 7)
 
+   [1] Apostol, Tom M. Calculus, Vol. 2: Multi-Variable Calculus and Linear Algebra with Applications to Differential Equations and Probability. Wiley, 1969.
+
 ### **Linear Algebra and Applications** (Sem II)
 
+   **Dr. Souradeep Majumder** [http://www.iisertirupati.ac.in/faculty/souradeep/index.php](http://www.iisertirupati.ac.in/faculty/souradeep/index.php)
 
    - **Linear equations**: Systems of linear equations, matrices, vectors, Gauss-
    Jordan elimination, matrix operations.
@@ -421,10 +436,12 @@ Reference: Ch. 9,12 of [2].
    such systems using eigenvectors, characteristic polynomial, finding
    eigenvectors and eigenvalues, diagonalisation, complex eigenvalues,
    symmetric matrices, spectral theorem for real symmetric matrices.
-
+   
+   [1] K. Hoffman, R. Kunze. Linear Algebra, Pearson (1971).
 
 ### **Single Variable Calculus** (Sem II)
 
+   **Dr. Shalini Bhattacharya**[https://iisertirupati.irins.org/profile/95590](https://iisertirupati.irins.org/profile/95590)
 
    - **Limits and continuity**: Functions, limits, sequences, continuity,
    basic properties of limits and continuous functions, intermediate
@@ -447,13 +464,13 @@ Reference: Ch. 9,12 of [2].
 
    - Examples of ordinary differential equations.
 
-
+   [1] Apostol, Tom M. Calculus: one-variable calculus, with an introduction to linear algebrar. Blaisdell Publishing, 1967.
 
 ## **Physics**
 
 ### **Classical Mechanics** (Sem V)
 
-   Prof. G. Ambika
+   **Prof. G. Ambika** [http://www.iisertirupati.ac.in/people/faculty/ambika.php](http://www.iisertirupati.ac.in/people/faculty/ambika.php)
 
    - Introduction- Euler Lagrange equation from 
    variational principle -Brachistochrone - 
