@@ -32,6 +32,62 @@ This is an exhaustive list of courses that I've taken till now at IISER tirupati
 
 ## **MATHS**  
 
+### **Fourier Analysis** (Sem VI)
+
+Dr. R. Lakshmi Lavanya 
+
+- Introduction to Fourier series: Convolutions, Good kernels, basis 
+approximation theorem, Convergence of Fourier series.  
+[17 L]  
+Reference: Ch. 2 & 3 of [1]  
+
+- Introduction to Fourier transform on R: The Schwartz space,  
+The Fourier inversion, The Plancherel formula. [7 L] Reference: 
+Ch. 5 of [1]  
+
+- Applications of Fourier series and Fourier integrals: The 
+isoperimetric inequality, Weyls distribution theorem, The  
+Heisenberg uncertainty principle. [5 L]  
+Reference: Ch. 4 & 5 of [1]  
+
+- Introduction to Fourier transform on Rn: Integration on Rn,  
+Elementary theory of the Fourier transform on Rn. [5 L]  
+Reference: Ch. 6 of [1]  
+
+- Finite Fourier Analysis: Fourier analysis on Z(N), Fourier 
+analysis on finite Abelian groups, Characters, Fourier  
+inversion and Plancherel formula. [8 L]  
+Reference: Ch. 7 of [1]
+
+[1] E. Stein and R. Shakarchi, Fourier Analysis.
+An Introduction, Princeton University Press, 2003.  
+
+### **Introduction to Lie Algebras** (Sem VI)
+
+Dr. Venketasubramanian C.G.
+
+- Lie algebras, subalgebras, ideals, Solvable and Nilpotent Lie 
+algebras, Engel’s theorem. [6 L] Reference: Ch. 1-3 of [1].  
+
+- Lie’s Theorem Jordan-Chevalley decomposition, Semisimple and 
+Reductive algebras, Killing form and Cartan criterion. [7 L]  
+Reference: Ch. 4 & 5 of [1].  
+
+- Representations of Lie algebras, Weyl’s theorem, sl2 and its 
+representations. [7 L]  
+Reference: Ch. 6 & 7 of [1] and Ch. IV of [2].  
+
+- Introduction to Root Systems and Dynkin diagrams, Weyl  
+group, Root space decomposition. [10 L] Reference: 
+Ch V of [2] and Ch. 9-12 of [1].  
+
+- Structure of complex semisimple Lie algebras. [7 L]  
+Reference: Ch. VI of [2].  
+
+[1] J. E. Humphreys, Introduction to Lie Algebras and 
+Representation Theory, Springer, 1972.  
+
+
 ### **Measure Theory and Integration** (Sem VI)
 
 Dr. Souradeep Majumder
