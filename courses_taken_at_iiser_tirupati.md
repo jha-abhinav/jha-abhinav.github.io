@@ -305,7 +305,7 @@ Reference: Ch. 9,12 of [2].
 
 ### **Elementary Number Theory** (Sem V)
 
-   Dr. Nagaraj D S.
+   Dr. Nagaraj D S. (http://www.iisertirupati.ac.in/faculty/dsn/nagaraj.php)
 
    - Integers: The division algorithm, greatest common divisor,
    The Euclidean algorithm, The Diophantine Equation ax +
