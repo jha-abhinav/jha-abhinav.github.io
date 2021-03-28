@@ -50,8 +50,8 @@ isoperimetric inequality, Weyls distribution theorem, The
 Heisenberg uncertainty principle. [5 L]  
 Reference: Ch. 4 & 5 of [1]  
 
-- *Introduction to Fourier transform on R<sup>n</sup>*: Integration on Rn,  
-Elementary theory of the Fourier transform on Rn. [5 L]  
+- *Introduction to Fourier transform on R<sup>n</sup>*: Integration on R<sup>n</sup>,  
+Elementary theory of the Fourier transform on R<sup>n</sup>. [5 L]  
 Reference: Ch. 6 of [1]  
 
 - *Finite Fourier Analysis*: Fourier analysis on Z(N), Fourier 
