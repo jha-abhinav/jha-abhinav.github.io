@@ -36,25 +36,25 @@ This is an exhaustive list of courses that I've taken till now at IISER tirupati
 
 **Dr. R. Lakshmi Lavanya** [http://www.iisertirupati.ac.in/faculty/rlakshmilavanya/lakshmi.php](http://www.iisertirupati.ac.in/faculty/rlakshmilavanya/lakshmi.php)
 
-- Introduction to Fourier series: Convolutions, Good kernels, basis 
+- *Introduction to Fourier series*: Convolutions, Good kernels, basis 
 approximation theorem, Convergence of Fourier series.  
 [17 L]  
 Reference: Ch. 2 & 3 of [1]  
 
-- Introduction to Fourier transform on R: The Schwartz space,  
+- *Introduction to Fourier transform on R*: The Schwartz space,  
 The Fourier inversion, The Plancherel formula. [7 L] Reference: 
 Ch. 5 of [1]  
 
-- Applications of Fourier series and Fourier integrals: The 
+- *Applications of Fourier series and Fourier integrals*: The 
 isoperimetric inequality, Weyls distribution theorem, The  
 Heisenberg uncertainty principle. [5 L]  
 Reference: Ch. 4 & 5 of [1]  
 
-- Introduction to Fourier transform on Rn: Integration on Rn,  
+- *Introduction to Fourier transform on R<sup>n</sup>*: Integration on Rn,  
 Elementary theory of the Fourier transform on Rn. [5 L]  
 Reference: Ch. 6 of [1]  
 
-- Finite Fourier Analysis: Fourier analysis on Z(N), Fourier 
+- *Finite Fourier Analysis*: Fourier analysis on Z(N), Fourier 
 analysis on finite Abelian groups, Characters, Fourier  
 inversion and Plancherel formula. [8 L]  
 Reference: Ch. 7 of [1]
