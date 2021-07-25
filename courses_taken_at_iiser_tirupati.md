@@ -71,18 +71,7 @@ algebras, Engel’s theorem. [6 L] Reference: Ch. 1-3 of [1].
 
 - Lie’s Theorem Jordan-Chevalley decomposition, Semisimple and 
 Reductive algebras, Killing form and Cartan criterion. [7 L]  
-Reference: Ch. 4 & 5 of [1].  
-
-- Representations of Lie algebras, Weyl’s theorem, sl2 and its 
-representations. [7 L]  
-Reference: Ch. 6 & 7 of [1] and Ch. IV of [2].  
-
-- Introduction to Root Systems and Dynkin diagrams, Weyl  
-group, Root space decomposition. [10 L] Reference: 
-Ch V of [2] and Ch. 9-12 of [1].  
-
-- Structure of complex semisimple Lie algebras. [7 L]  
-Reference: Ch. VI of [2].  
+Reference: Ch. 4 & 5 of [1].
 
 [1] J. E. Humphreys, Introduction to Lie Algebras and 
 Representation Theory, Springer, 1972.  
