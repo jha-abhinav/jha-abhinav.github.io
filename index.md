@@ -4,9 +4,6 @@ layout: home
 
 I'm glad you are here. I plan to talk about random stuff.
 
-Useful Links
-(https://marktomforde.com/academic/gradstudents/gradstudents.html)[https://marktomforde.com/academic/gradstudents/gradstudents.html]
-
 
 
 
